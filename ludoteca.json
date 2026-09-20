@@ -1,0 +1,1193 @@
+[
+  {
+    "id": 1,
+    "name": "Men-Nefer",
+    "minPlayers": 1,
+    "maxPlayers": 4,
+    "bestMinPlayers": 4,
+    "bestMaxPlayers": 4,
+    "played": false,
+    "category": [
+      "Pesado"
+    ],
+    "image": "https://cf.geekdo-images.com/hMkpLfORIUsMe4dHuuHPyg__imagepagezoom/img/k2evrnUhJrUL6-fn8hcVaB3m34k=/fit-in/1200x900/filters:no_upscale():strip_icc()/pic7984201.jpg",
+    "unplayedExpansion": false
+  },
+  {
+    "id": 2,
+    "name": "Mistborn",
+    "minPlayers": 1,
+    "maxPlayers": 4,
+    "bestMinPlayers": 4,
+    "bestMaxPlayers": 4,
+    "played": false,
+    "category": [
+      "Fantasia"
+    ],
+    "image": "",
+    "unplayedExpansion": false
+  },
+  {
+    "id": 3,
+    "name": "Marvel Zombies Xmen Resistance",
+    "minPlayers": 4,
+    "maxPlayers": 6,
+    "bestMinPlayers": 4,
+    "bestMaxPlayers": 6,
+    "played": false,
+    "category": [
+      "Marvel",
+      "Coperativo"
+    ],
+    "image": "https://cf.geekdo-images.com/fSkaoBXcVmw2Iyme-niJaQ__imagepage/img/7FvQ9WTlqWUINtxqiJlaN11fquI=/fit-in/900x600/filters:no_upscale():strip_icc()/pic7177337.jpg",
+    "unplayedExpansion": true
+  },
+  {
+    "id": 4,
+    "name": "La Cosa Nostra",
+    "minPlayers": 3,
+    "maxPlayers": 5,
+    "bestMinPlayers": 4,
+    "bestMaxPlayers": 5,
+    "played": false,
+    "category": [
+      "Crimen"
+    ],
+    "image": "https://cf.geekdo-images.com/P9bOdjcFFhjJdaeKjsy4xw__imagepage/img/ys7TXk4vA8tZbGAhjcAqIGbycFM=/fit-in/900x600/filters:no_upscale():strip_icc()/pic2971870.jpg",
+    "unplayedExpansion": false
+  },
+  {
+    "id": 5,
+    "name": "Feed the Kraken",
+    "minPlayers": 5,
+    "maxPlayers": 11,
+    "bestMinPlayers": 7,
+    "bestMaxPlayers": 11,
+    "played": false,
+    "category": [
+      "Grupo Grande"
+    ],
+    "image": "https://cf.geekdo-images.com/1I9spdDMuRzgM4EVV6BRiQ__imagepage/img/aC33SnnYnNnNzltLfNwE9e6iimE=/fit-in/900x600/filters:no_upscale():strip_icc()/pic8775698.jpg",
+    "unplayedExpansion": false
+  },
+  {
+    "id": 6,
+    "name": "Dune Guerra por Arrakis",
+    "minPlayers": 1,
+    "maxPlayers": 4,
+    "bestMinPlayers": 2,
+    "bestMaxPlayers": 4,
+    "played": false,
+    "category": [
+      "Dune"
+    ],
+    "image": "https://cf.geekdo-images.com/b_Uo-x3szhupSWeQdw5bdg__itemrep/img/ZIaZScbDNd0UxHCeTRaMvbtoT0o=/fit-in/246x300/filters:strip_icc()/pic7088918.jpg",
+    "unplayedExpansion": false
+  },
+  {
+    "id": 7,
+    "name": "Viticulture",
+    "minPlayers": 3,
+    "maxPlayers": 6,
+    "bestMinPlayers": 4,
+    "bestMaxPlayers": 5,
+    "played": false,
+    "image": "https://cf.geekdo-images.com/l_PRU2lVlX9seScRFcvFlA__itemrep@2x/img/gPos818EGcUvPtS7wQbcgWD5vIY=/fit-in/492x600/filters:strip_icc()/pic6500949.jpg",
+    "category": [
+      "Trabajadores"
+    ],
+    "unplayedExpansion": false
+  },
+  {
+    "id": 8,
+    "name": "Scythe",
+    "minPlayers": 1,
+    "maxPlayers": 7,
+    "bestMinPlayers": 4,
+    "bestMaxPlayers": 5,
+    "played": false,
+    "image": "https://cf.geekdo-images.com/7k_nOxpO9OGIjhLq2BUZdA__itemrep@2x/img/yNHhBsanOA3BTW2uLRtN0LlGsoE=/fit-in/492x600/filters:strip_icc()/pic3163924.jpg",
+    "category": [
+      ""
+    ],
+    "unplayedExpansion": false
+  },
+  {
+    "id": 9,
+    "name": "Lets go to japan",
+    "minPlayers": 2,
+    "maxPlayers": 4,
+    "bestMinPlayers": 3,
+    "bestMaxPlayers": 4,
+    "played": false,
+    "category": [
+      ""
+    ],
+    "image": "https://cf.geekdo-images.com/OvhEUaF43CIjSFz8aF_yzQ__itemrep@2x/img/F7lxBBYZzNqGwHeoNzalmeZXY9c=/fit-in/492x600/filters:strip_icc()/pic6996891.jpg",
+    "unplayedExpansion": false
+  },
+  {
+    "id": 10,
+    "name": "Gloomhaven Fauses del Leon",
+    "minPlayers": 4,
+    "maxPlayers": 4,
+    "bestMinPlayers": 4,
+    "bestMaxPlayers": 4,
+    "played": true,
+    "category": [
+      "Fantasia", "Coperativo"
+    ],
+    "image": "https://cf.geekdo-images.com/_HhIdavYW-hid20Iq3hhmg__itemrep@2x/img/SnJ_s7pxZkOUQNXd9BAUiYEnLyE=/fit-in/492x600/filters:strip_icc()/pic5055631.jpg",
+    "unplayedExpansion": false
+  },
+  {
+    "id": 11,
+    "name": "Señor de los anillos Destino de la Comunidad",
+    "minPlayers": 1,
+    "maxPlayers": 5,
+    "bestMinPlayers": 4,
+    "bestMaxPlayers": 5,
+    "played": true,
+    "category": [
+      "Señor de los Anillos"
+    ],
+    "image": "https://cf.geekdo-images.com/scw36iBIad7l-rGzxPGcGg__itemrep@2x/img/xvVUhJo2v3KZx0RqrG5_TFd8ZZc=/fit-in/492x600/filters:strip_icc()/pic8662670.png",
+    "unplayedExpansion": false
+  },
+  {
+    "id": 12,
+    "name": "Señor de los Anillos Comunidad Bazas",
+    "minPlayers": 1,
+    "maxPlayers": 4,
+    "bestMinPlayers": 4,
+    "bestMaxPlayers": 4,
+    "played": true,
+    "image": "https://cf.geekdo-images.com/uC4N_3kQdoHefNPesAHCzQ__itemrep@2x/img/SYxagNMNuyInZ-zFJlzL78ZZj0E=/fit-in/492x600/filters:strip_icc()/pic8437787.png",
+    "category": [
+      "Señor de los Anillos", "Coperativo", "Bazas"
+    ],
+    "unplayedExpansion": false
+  },
+  {
+    "id": 13,
+    "name": "Señor de los Anillos Dos Torres Bazas",
+    "minPlayers": 1,
+    "maxPlayers": 4,
+    "bestMinPlayers": 4,
+    "bestMaxPlayers": 4,
+    "played": true,
+    "image": "https://cf.geekdo-images.com/TSwHNId9CUCq-bxAGmNJiQ__itemrep@2x/img/bpmmT1MVjWozNT-m0Wl0ixHGmRE=/fit-in/492x600/filters:strip_icc()/pic9044877.png",
+    "category": [
+      "Señor de los Anillos", "Coperativo", "Bazas"
+    ],
+    "unplayedExpansion": false
+  },
+  {
+    "id": 14,
+    "name": "Dune Imperium",
+    "minPlayers": 1,
+    "maxPlayers": 4,
+    "bestMinPlayers": 4,
+    "bestMaxPlayers": 4,
+    "played": true,
+    "image": "https://cf.geekdo-images.com/PhjygpWSo-0labGrPBMyyg__itemrep@2x/img/Jo0nBF30UyHL5WSuh1xWppwt1cY=/fit-in/492x600/filters:strip_icc()/pic5666597.jpg",
+    "category": [
+      "Dune"
+    ],
+    "unplayedExpansion": false
+  },
+  {
+    "id": 15,
+    "name": "Dune Imperium Uprising",
+    "minPlayers": 4,
+    "maxPlayers": 6,
+    "bestMinPlayers": 4,
+    "bestMaxPlayers": 6,
+    "played": true,
+    "image": "https://cf.geekdo-images.com/UVUkjMV_Q2paVUIUP30Vvw__itemrep@2x/img/R1DfoFAXuuOgg8vDr1n7_ovrscg=/fit-in/492x600/filters:strip_icc()/pic7664424.jpg",
+    "category": [
+      "Dune"
+    ],
+    "unplayedExpansion": true
+  },
+  {
+    "id": 16,
+    "name": "The Witcher el Viejo Mundo",
+    "minPlayers": 1,
+    "maxPlayers": 5,
+    "bestMinPlayers": 3,
+    "bestMaxPlayers": 4,
+    "played": true,
+    "image": "https://cf.geekdo-images.com/tQVVSXcmYLvAoI28cp-2Tg__itemrep@2x/img/EYdbd5vf2UatF6jCwsdCCoYXIy8=/fit-in/492x600/filters:strip_icc()/pic5974859.jpg",
+    "category": [
+      "Pesado", "Fantasia"
+    ],
+    "unplayedExpansion": false
+  },
+  {
+    "id": 17,
+    "name": "Welcome to the Moon",
+    "minPlayers": 1,
+    "maxPlayers": 6,
+    "bestMinPlayers": 4,
+    "bestMaxPlayers": 5,
+    "played": true,
+    "image": "https://cf.geekdo-images.com/eCdiHCB9OobumwaGl4dbOQ__itemrep@2x/img/vAcMMGbSIA2A9ZnmyERQxLa04XQ=/fit-in/492x600/filters:strip_icc()/pic6204967.png",
+    "category": [
+      "Espacial", "Grupo Grande"
+    ],
+    "unplayedExpansion": false
+  },
+  {
+    "id": 18,
+    "name": "Marvel Zombies",
+    "minPlayers": 4,
+    "maxPlayers": 6,
+    "bestMinPlayers": 4,
+    "bestMaxPlayers": 6,
+    "played": true,
+    "image": "https://cf.geekdo-images.com/1nxn5PtVk-cbS3tHDg4Xlg__itemrep@2x/img/hfHl89tF4Uekk0AThGVvddNBtKk=/fit-in/492x600/filters:strip_icc()/pic6619019.jpg",
+    "category": [
+      "Marvel", "Coperativo"
+    ],
+    "unplayedExpansion": true
+  },
+  {
+    "id": 19,
+    "name": "QE",
+    "minPlayers": 1,
+    "maxPlayers": 5,
+    "bestMinPlayers": 4,
+    "bestMaxPlayers": 5,
+    "played": true,
+    "image": "https://cf.geekdo-images.com/47o_swlkRbfpMH3hnFZgtA__itemrep@2x/img/eZ4dHFV9gf2olr8sweduthKS_Ho=/fit-in/492x600/filters:strip_icc()/pic4383594.png",
+    "category": [
+      "Subasta"
+    ],
+    "unplayedExpansion": false
+  },
+  {
+    "id": 20,
+    "name": "Un Día en las Carreras",
+    "minPlayers": 1,
+    "maxPlayers": 9,
+    "bestMinPlayers": 7,
+    "bestMaxPlayers": 8,
+    "played": true,
+    "image": "https://cf.geekdo-images.com/4ZCV2o_OiGha0bknXDTfdA__itemrep@2x/img/ap6o1G3EAAx3y-6xLpCvyVmmRaU=/fit-in/492x600/filters:strip_icc()/pic6678381.jpg",
+    "category": [
+      "Apuestas"
+    ],
+    "unplayedExpansion": false
+  },
+  {
+    "id": 21,
+    "name": "Planeta Desconocido",
+    "minPlayers": 1,
+    "maxPlayers": 6,
+    "bestMinPlayers": 5,
+    "bestMaxPlayers": 6,
+    "played": true,
+    "image": "https://cf.geekdo-images.com/3HkjDovk8Yr2wMumcSUGog__itemrep@2x/img/b88bm2yO6lpzyMBed3xyOdTJQFA=/fit-in/492x600/filters:strip_icc()/pic4843622.jpg",
+    "category": [
+      "Espacial", "Polyomino"
+    ],
+    "unplayedExpansion": true
+  },
+  {
+    "id": 22,
+    "name": "Disney Villanous",
+    "minPlayers": 1,
+    "maxPlayers": 5,
+    "bestMinPlayers": 3,
+    "bestMaxPlayers": 4,
+    "played": true,
+    "image": "https://cf.geekdo-images.com/7Ej5V5Dq92QdvVFvISfl_A__itemrep@2x/img/ht9-6jbd9IhMFW5GjGEzCO1dvKY=/fit-in/492x600/filters:strip_icc()/pic4216110.jpg",
+    "category": [
+      "Disney"
+    ],
+    "unplayedExpansion": false
+  },
+  {
+    "id": 23,
+    "name": "Star Wars Villanous",
+    "minPlayers": 1,
+    "maxPlayers": 5,
+    "bestMinPlayers": 3,
+    "bestMaxPlayers": 4,
+    "played": true,
+    "image": "https://cf.geekdo-images.com/aq9LGSoVavCJbhY2cOTUTg__itemrep@2x/img/0I5H6DgUoWtw7Uyvhq9Y4VRiK-Y=/fit-in/492x600/filters:strip_icc()/pic6741829.png",
+    "category": [
+      "Espacial", "Star Wars"
+    ],
+    "unplayedExpansion": false
+  },
+  {
+    "id": 24,
+    "name": "Marvel United Xmen",
+    "minPlayers": 1,
+    "maxPlayers": 4,
+    "bestMinPlayers": 4,
+    "bestMaxPlayers": 4,
+    "played": true,
+    "image": "https://cf.geekdo-images.com/McQXSQjyTtrqpGA77GSRxg__itemrep@2x/img/TEktzqu5DQCJFDxy8M_SoiCC5Dc=/fit-in/492x600/filters:strip_icc()/pic6245965.jpg",
+    "category": [
+      "Coperativo", "Marvel"
+    ],
+    "unplayedExpansion": false
+  },
+  {
+    "id": 25,
+    "name": "It's a Wonderful World",
+    "minPlayers": 1,
+    "maxPlayers": 7,
+    "bestMinPlayers": 5,
+    "bestMaxPlayers": 7,
+    "played": true,
+    "image": "https://cf.geekdo-images.com/od4vDTdXGPSVc-kjLqM11w__itemrep@2x/img/8FpWzkugXPnjGHeMnsvh7IJHBEE=/fit-in/492x600/filters:strip_icc()/pic4651175.jpg",
+    "category": [
+      "Draft"
+    ],
+    "unplayedExpansion": false
+  },
+  {
+    "id": 26,
+    "name": "Las Vegas Royale",
+    "minPlayers": 2,
+    "maxPlayers": 5,
+    "bestMinPlayers": 5,
+    "bestMaxPlayers": 5,
+    "played": true,
+    "image": "https://cf.geekdo-images.com/4BDkj75aMObXau8L08jX5w__itemrep@2x/img/DKRaZ6-1yn9E0GV5kzW0HKeszxQ=/fit-in/492x600/filters:strip_icc()/pic4673729.jpg",
+    "category": [
+      "Apuestas"
+    ],
+    "unplayedExpansion": false
+  },
+  {
+    "id": 27,
+    "name": "Sushi Go Party",
+    "minPlayers": 2,
+    "maxPlayers": 8,
+    "bestMinPlayers": 5,
+    "bestMaxPlayers": 8,
+    "played": true,
+    "image": "https://cf.geekdo-images.com/2f9uTicUSXkdPp2Yks6zFw__itemrep/img/Y_jPOWbp6_2qOzymSNIC6SZo4TE=/fit-in/246x300/filters:strip_icc()/pic5885689.jpg",
+    "category": [
+      "Party", "Draft"
+    ],
+    "unplayedExpansion": false
+  },
+  {
+    "id": 28,
+    "name": "El Ansia",
+    "minPlayers": 2,
+    "maxPlayers": 5,
+    "bestMinPlayers": 4,
+    "bestMaxPlayers": 4,
+    "played": true,
+    "image": "https://cf.geekdo-images.com/P6xRtuVTPwR148SP4oIXGQ__itemrep@2x/img/9XfW98BYgrM7J4fFiALZJeswuMg=/fit-in/492x600/filters:strip_icc()/pic6218039.jpg",
+    "category": [
+      "DeckBuilding"
+    ],
+    "unplayedExpansion": false
+  },
+  {
+    "id": 29,
+    "name": "Clank Catacumbas",
+    "minPlayers": 1,
+    "maxPlayers": 4,
+    "bestMinPlayers": 4,
+    "bestMaxPlayers": 4,
+    "played": true,
+    "image": "https://cf.geekdo-images.com/cCLn9Mvb7jRSaZzHeUXhoQ__itemrep@2x/img/FOaAHKf-n6jtbiQXiOplpHbQPDQ=/fit-in/492x600/filters:strip_icc()/pic6937913.jpg",
+    "category": [
+      "DeckBuilding"
+    ],
+    "unplayedExpansion": false
+  },
+  {
+    "id": 30,
+    "name": "Challengers Beach Cup",
+    "minPlayers": 2,
+    "maxPlayers": 8,
+    "bestMinPlayers": 6,
+    "bestMaxPlayers": 8,
+    "played": true,
+    "image": "https://cf.geekdo-images.com/QZWrLoOoruqb0YRDQT-jng__itemrep@2x/img/i-8y40sPSZ9ljS2g38yWkt-QlGY=/fit-in/492x600/filters:strip_icc()/pic7683878.png",
+    "category": [
+      "Grupo Grande"
+    ],
+    "unplayedExpansion": false
+  },
+  {
+    "id": 31,
+    "name": "Bullet",
+    "minPlayers": 1,
+    "maxPlayers": 4,
+    "bestMinPlayers": 4,
+    "bestMaxPlayers": 4,
+    "played": true,
+    "image": "https://cf.geekdo-images.com/315gnIdET7dlQ_fASt8p0w__itemrep@2x/img/yQf87V5umFm1bOwNyjYj16WF_gM=/fit-in/492x600/filters:strip_icc()/pic6007944.jpg",
+    "category": [
+      "Time"
+    ],
+    "unplayedExpansion": false
+  },
+  {
+    "id": 32,
+    "name": "Heat",
+    "minPlayers": 4,
+    "maxPlayers": 8,
+    "bestMinPlayers": 5,
+    "bestMaxPlayers": 8,
+    "played": true,
+    "image": "https://cf.geekdo-images.com/-vOrd4bOspibyohYExLqWg__itemrep@2x/img/S1Vm6B8-yVTbjq6pOf091HNeKMg=/fit-in/492x600/filters:strip_icc()/pic6940449.png",
+    "category": [
+      "Grupo Grande"
+    ],
+    "unplayedExpansion": false
+  },
+  {
+    "id": 33,
+    "name": "Small World of Warcraft",
+    "minPlayers": 2,
+    "maxPlayers": 5,
+    "bestMinPlayers": 4,
+    "bestMaxPlayers": 5,
+    "played": true,
+    "image": "https://cf.geekdo-images.com/KVLeGFlhzRVDHILRABi-Vg__small@2x/img/ATaIAjaDvvk3I77hIYqG9Qu8_eQ=/fit-in/400x300/filters:strip_icc()/pic5643225.png",
+    "category": [
+      "Fantasia"
+    ],
+    "unplayedExpansion": false
+  },
+  {
+    "id": 34,
+    "name": "Blood Rage",
+    "minPlayers": 2,
+    "maxPlayers": 5,
+    "bestMinPlayers": 4,
+    "bestMaxPlayers": 5,
+    "played": true,
+    "image": "https://cf.geekdo-images.com/HkZSJfQnZ3EpS214xtuplg__itemrep@2x/img/0UtNZAn18np4NC4jpHgt54OIiNs=/fit-in/492x600/filters:strip_icc()/pic2439223.jpg",
+    "category": [
+      "Draft"
+    ],
+    "unplayedExpansion": false
+  },
+  {
+    "id": 35,
+    "name": "Insondable",
+    "minPlayers": 2,
+    "maxPlayers": 5,
+    "bestMinPlayers": 4,
+    "bestMaxPlayers": 5,
+    "played": true,
+    "image": "https://cf.geekdo-images.com/_kZDRdv3tONk9vTcA_OwSA__itemrep@2x/img/B9kp2OMb57n4AnO7uC_tx7onhaI=/fit-in/492x600/filters:strip_icc()/pic8317346.png",
+    "category": [
+      "Lovecraft"
+    ],
+    "unplayedExpansion": false
+  },
+  {
+    "id": 36,
+    "name": "Eldrith Horror",
+    "minPlayers": 2,
+    "maxPlayers": 6,
+    "bestMinPlayers": 4,
+    "bestMaxPlayers": 5,
+    "played": true,
+    "image": "https://cf.geekdo-images.com/oxdsZKIX5_3ovDo38EIaeg__itemrep@2x/img/mv3vvwTJJUIsOED7m2vofHyzT1g=/fit-in/492x600/filters:strip_icc()/pic1872452.jpg",
+    "category": [
+      "Lovecraft", "Coperativo"
+    ],
+    "unplayedExpansion": false
+  },
+  {
+    "id": 37,
+    "name": "Mansiones de la Locura",
+    "minPlayers": 2,
+    "maxPlayers": 5,
+    "bestMinPlayers": 4,
+    "bestMaxPlayers": 5,
+    "played": true,
+    "image": "https://cf.geekdo-images.com/LIooA9bTdjnE9qmhjL-UFw__itemrep@2x/img/CTcuiiyX5l_LGYrmb2xabWXPZ0A=/fit-in/492x600/filters:strip_icc()/pic3118622.jpg",
+    "category": [
+      "Lovecraft", "Coperativo"
+    ],
+    "unplayedExpansion": false
+  },
+  {
+    "id": 38,
+    "name": "Cthulhu Death May die",
+    "minPlayers": 2,
+    "maxPlayers": 5,
+    "bestMinPlayers": 4,
+    "bestMaxPlayers": 5,
+    "played": true,
+    "image": "https://cf.geekdo-images.com/SPpzri7fwLRgVWMKOocHxw__itemrep@2x/img/62JnqoQGGT74Fz7fkuaeStg-2wE=/fit-in/492x600/filters:strip_icc()/pic9712872.png",
+    "category": [
+      "Lovecraft", "Coperativo"
+    ],
+    "unplayedExpansion": false
+  },
+  {
+    "id": 39,
+    "name": "Nemesis Lockdown",
+    "minPlayers": 1,
+    "maxPlayers": 5,
+    "bestMinPlayers": 4,
+    "bestMaxPlayers": 4,
+    "played": true,
+    "image": "https://cf.geekdo-images.com/NEbmFFGhKwegIryUArgw6w__itemrep@2x/img/Thsc-9q4PrTcXpTCWEJbuVa2Z48=/fit-in/492x600/filters:strip_icc()/pic7110034.jpg",
+    "category": [
+      "Espacial"
+    ],
+    "unplayedExpansion": false
+  },
+  {
+    "id": 40,
+    "name": "Starwars Borde Exterior",
+    "minPlayers": 1,
+    "maxPlayers": 4,
+    "bestMinPlayers": 4,
+    "bestMaxPlayers": 4,
+    "played": true,
+    "image": "https://cf.geekdo-images.com/RjwAj6hw5aEMGvosEA12gw__itemrep@2x/img/1nvcISfE2viD8P5hXmxHodh_Z4c=/fit-in/492x600/filters:strip_icc()/pic5879810.jpg",
+    "category": [
+      "Star Wars"
+    ],
+    "unplayedExpansion": false
+  },
+  {
+    "id": 41,
+    "name": "Star wars Clone Wars",
+    "minPlayers": 1,
+    "maxPlayers": 5,
+    "bestMinPlayers": 4,
+    "bestMaxPlayers": 5,
+    "played": true,
+    "image": "https://cf.geekdo-images.com/3d4Yptz2IUC2ZAxtdPidig__itemrep@2x/img/9DUIQv_-pitznX5xF5NyKYtfmc8=/fit-in/492x600/filters:strip_icc()/pic8211893.jpg",
+    "category": [
+      "Star Wars", "Coperativo"
+    ],
+    "unplayedExpansion": false
+  },
+  {
+    "id": 42,
+    "name": "Star wars Deckbuilding game",
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "bestMinPlayers": 2,
+    "bestMaxPlayers": 2,
+    "played": true,
+    "image": "https://cf.geekdo-images.com/U6scsOGrPtVym4nCLaYjyw__itemrep@2x/img/CAeRu_nFGt1W9biEuwpXzJba0fA=/fit-in/492x600/filters:strip_icc()/pic7387735.png",
+    "category": [
+      "Star Wars"
+    ],
+    "unplayedExpansion": false
+  },
+  {
+    "id": 43,
+    "name": "Star wars Unlimited",
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "bestMinPlayers": 2,
+    "bestMaxPlayers": 2,
+    "played": true,
+    "image": "https://cf.geekdo-images.com/YRZ0kNHp-NnWQf9yw7ldGw__itemrep@2x/img/gAtYZLcXiniorK3U8NEdtVQ8r9M=/fit-in/492x600/filters:strip_icc()/pic7503747.jpg",
+    "category": [
+      "Star Wars"
+    ],
+    "unplayedExpansion": false
+  },
+  {
+    "id": 44,
+    "name": "Star wars Bounty Hunters",
+    "minPlayers": 2,
+    "maxPlayers": 5,
+    "bestMinPlayers": 4,
+    "bestMaxPlayers": 5,
+    "played": true,
+    "image": "https://cf.geekdo-images.com/bfPo-GAs3pVmTc8HPHRVQA__itemrep@2x/img/454AypmN9ytMZwrw_A1lOGbaw08=/fit-in/492x600/filters:strip_icc()/pic7949042.jpg",
+    "category": [
+      "Star Wars"
+    ],
+    "unplayedExpansion": false
+  },
+  {
+    "id": 45,
+    "name": "Secret Hitler",
+    "minPlayers": 5,
+    "maxPlayers": 10,
+    "bestMinPlayers": 7,
+    "bestMaxPlayers": 8,
+    "played": true,
+    "image": "https://cf.geekdo-images.com/rAQ3hIXoH6xDcj41v9iqCg__itemrep/img/EQ1jwjZYnucHSizVlzHE8DiyEQI=/fit-in/246x300/filters:strip_icc()/pic5164305.jpg",
+    "category": [
+      "Grupo Grande"
+    ],
+    "unplayedExpansion": false
+  },
+  {
+    "id": 46,
+    "name": "Guerra del Anillo",
+    "minPlayers": 4,
+    "maxPlayers": 4,
+    "bestMinPlayers": 4,
+    "bestMaxPlayers": 4,
+    "played": true,
+    "image": "https://cf.geekdo-images.com/ScrF673pQhrx27WoVdG81g__itemrep@2x/img/qPcpi3XKZK7pKxrAOvW5UIz5EWE=/fit-in/492x600/filters:strip_icc()/pic6982333.png",
+    "category": [
+      "Señor de los Anillos"
+    ],
+    "unplayedExpansion": true
+  },
+  {
+    "id": 47,
+    "name": "Señor de los Anillos Similo",
+    "minPlayers": 4,
+    "maxPlayers": 4,
+    "bestMinPlayers": 4,
+    "bestMaxPlayers": 4,
+    "played": true,
+    "image": "https://cf.geekdo-images.com/fl0hNCmltu2hpcmXaVnmLg__itemrep@2x/img/_l-uvqoBQ_hpp0wYiDbp7UzATw4=/fit-in/492x600/filters:strip_icc()/pic6417388.png",
+    "category": [
+      "Señor de los Anillos"
+    ],
+    "unplayedExpansion": false
+  },
+  {
+    "id": 48,
+    "name": "Señor de los anillos Viajes por la Tierra Media",
+    "minPlayers": 4,
+    "maxPlayers": 5,
+    "bestMinPlayers": 4,
+    "bestMaxPlayers": 5,
+    "played": true,
+    "image": "https://cf.geekdo-images.com/1XA2-niwTBa0HEB7hOz3Dw__itemrep@2x/img/vm_IF43cf8AJ4GF3zekYZ9uiP1Q=/fit-in/492x600/filters:strip_icc()/pic4530974.jpg",
+    "category": [
+      "Señor de los Anillos","Coperativo"
+    ],
+    "unplayedExpansion": false
+  },
+  {
+    "id": 49,
+    "name": "Señor de los anillos Magic",
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "bestMinPlayers": 2,
+    "bestMaxPlayers": 2,
+    "played": true,
+    "image": "https://cf.geekdo-images.com/eGgWK6CBgJmFv-k5IPVK7Q__itemrep@2x/img/GKEBZ4Q62tokC-j5EWThHnWnLVw=/fit-in/492x600/filters:strip_icc()/pic7613073.jpg",
+    "category": [
+      "Señor de los Anillos"
+    ],
+    "unplayedExpansion": false
+  },
+  {
+    "id": 50,
+    "name": "Señor de los Anillos Batallas por tierra media",
+    "minPlayers": 2,
+    "maxPlayers": 4,
+    "bestMinPlayers": 4,
+    "bestMaxPlayers": 4,
+    "played": true,
+    "image": "https://cf.geekdo-images.com/S1fyD33b1HdwSQNwdokC8Q__imagepage/img/oVjqRE8fa3A9MRHfs_IzJe0ct9w=/fit-in/900x600/filters:no_upscale():strip_icc()/pic3280401.png",
+    "category": [
+      "Señor de los Anillos"
+    ],
+    "unplayedExpansion": false
+  },
+  {
+    "id": 51,
+    "name": "Señor de los Anillos Duelo",
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "bestMinPlayers": 2,
+    "bestMaxPlayers": 2,
+    "played": true,
+    "image": "https://cf.geekdo-images.com/EybxJlUc9rz7F7HVFLqsdw__itemrep@2x/img/ZBaZuEF91caDnlhi2mmr48mwuZ4=/fit-in/492x600/filters:strip_icc()/pic8378939.jpg",
+    "category": [
+      "Señor de los Anillos"
+    ],
+    "unplayedExpansion": false
+  },
+  {
+    "id": 52,
+    "name": "Wingspan",
+    "minPlayers": 1,
+    "maxPlayers": 7,
+    "bestMinPlayers": 4,
+    "bestMaxPlayers": 5,
+    "played": true,
+    "image": "https://cf.geekdo-images.com/yLZJCVLlIx4c7eJEWUNJ7w__itemrep@2x/img/veohwKEtFpERbDq7xGMggHqLKX8=/fit-in/492x600/filters:strip_icc()/pic4458123.jpg",
+    "category": [
+      "Naturaleza"
+    ],
+    "unplayedExpansion": false
+  },
+  {
+    "id": 53,
+    "name": "Ark Nova",
+    "minPlayers": 1,
+    "maxPlayers": 4,
+    "bestMinPlayers": 3,
+    "bestMaxPlayers": 4,
+    "played": true,
+    "image": "https://cf.geekdo-images.com/SoU8p28Sk1s8MSvoM4N8pQ__itemrep@2x/img/Pr8zSaMINlALYjR0agud0_EFESs=/fit-in/492x600/filters:strip_icc()/pic6293412.jpg",
+    "category": [
+      "Naturaleza", "Pesado", "Trabajadores"
+    ],
+    "unplayedExpansion": true
+  },
+  {
+    "id": 54,
+    "name": "Everdell",
+    "minPlayers": 1,
+    "maxPlayers": 5,
+    "bestMinPlayers": 3,
+    "bestMaxPlayers": 4,
+    "played": true,
+    "image": "https://cf.geekdo-images.com/fjE7V5LNq31yVEW_yuqI-Q__itemrep@2x/img/rCk5yWDLA7IBpIqBw8Sc0OOh7aE=/fit-in/492x600/filters:strip_icc()/pic3918905.png",
+    "category": [
+      "Naturaleza"
+    ],
+    "unplayedExpansion": false
+  },
+  {
+    "id": 55,
+    "name": "New York Zoo",
+    "minPlayers": 2,
+    "maxPlayers": 5,
+    "bestMinPlayers": 4,
+    "bestMaxPlayers": 5,
+    "played": true,
+    "image": "https://cf.geekdo-images.com/8vqr1uYik715mqDqy0W9vg__itemrep@2x/img/P0WxVVecT1BJ6jxTOnEhoZnD-lo=/fit-in/492x600/filters:strip_icc()/pic5673404.jpg",
+    "category": [
+      "Naturaleza", "Polyomino"
+    ],
+    "unplayedExpansion": false
+  },
+  {
+    "id": 56,
+    "name": "Root",
+    "minPlayers": 2,
+    "maxPlayers": 5,
+    "bestMinPlayers": 4,
+    "bestMaxPlayers": 5,
+    "played": true,
+    "image": "https://cf.geekdo-images.com/JUAUWaVUzeBgzirhZNmHHw__itemrep@2x/img/ws8Cu10dtH9Dk0bzuc4xHmIKDEc=/fit-in/492x600/filters:strip_icc()/pic4254509.jpg",
+    "category": [
+      "Pesado", "Naturaleza"
+    ],
+    "unplayedExpansion": true
+  },
+  {
+    "id": 57,
+    "name": "Cubirds",
+    "minPlayers": 2,
+    "maxPlayers": 5,
+    "bestMinPlayers": 4,
+    "bestMaxPlayers": 5,
+    "played": true,
+    "image": "https://cf.geekdo-images.com/FDBUwGFBkniyl8q4Alvq8A__itemrep@2x/img/TW5LsqId_pViCbpPNAq_7KeLSAY=/fit-in/492x600/filters:strip_icc()/pic7491534.jpg",
+    "category": [
+      "Naturaleza", "Party"
+    ],
+    "unplayedExpansion": false
+  },
+  {
+    "id": 58,
+    "name": "Oceanos de Papel",
+    "minPlayers": 2,
+    "maxPlayers": 5,
+    "bestMinPlayers": 4,
+    "bestMaxPlayers": 5,
+    "played": true,
+    "image": "https://cf.geekdo-images.com/CIh_rXKoRw9z8K0PJxT8nQ__itemrep@2x/img/WAwZZCM6DFwv4Os2CxEUzIP4Xyc=/fit-in/492x600/filters:strip_icc()/pic6973911.jpg",
+    "category": [
+      "Party", "Naturaleza"
+    ],
+    "unplayedExpansion": false
+  },
+  {
+    "id": 59,
+    "name": "Love Letter",
+    "minPlayers": 2,
+    "maxPlayers": 5,
+    "bestMinPlayers": 4,
+    "bestMaxPlayers": 5,
+    "played": true,
+    "image": "https://cf.geekdo-images.com/V7WQjhAh0AatPXTYOrXtCQ__itemrep@2x/img/9kzDWqjgTc0JwNBOsqGcxqP9pYY=/fit-in/492x600/filters:strip_icc()/pic4766499.png",
+    "category": [
+      "Party"
+    ],
+    "unplayedExpansion": false
+  },
+  {
+    "id": 60,
+    "name": "Bang",
+    "minPlayers": 3,
+    "maxPlayers": 8,
+    "bestMinPlayers": 5,
+    "bestMaxPlayers": 8,
+    "played": true,
+    "image": "https://cf.geekdo-images.com/BLTFau1Ue-gjX6geQdYrjQ__itemrep@2x/img/iVX-fh_iAy1qLDGnyUEIGMGtGxE=/fit-in/492x600/filters:strip_icc()/pic2909713.jpg",
+    "category": [
+      "Dados", "Grupo Grande"
+    ],
+    "unplayedExpansion": false
+  },
+  {
+    "id": 61,
+    "name": "Scout",
+    "minPlayers": 2,
+    "maxPlayers": 5,
+    "bestMinPlayers": 4,
+    "bestMaxPlayers": 5,
+    "played": true,
+    "image": "https://cf.geekdo-images.com/cf0xxkevbwTGF3VUZymKjg__itemrep@2x/img/JomVCns_IU5hlP6teQ-J5JkxSYQ=/fit-in/492x600/filters:strip_icc()/pic6398727.png",
+    "category": [
+      "Party"
+    ],
+    "unplayedExpansion": false
+  },
+  {
+    "id": 62,
+    "name": "Cascadia",
+    "minPlayers": 2,
+    "maxPlayers": 4,
+    "bestMinPlayers": 4,
+    "bestMaxPlayers": 4,
+    "played": true,
+    "image": "https://cf.geekdo-images.com/MjeJZfulbsM1DSV3DrGJYA__itemrep@2x/img/jluk2bo_VuQ6kgX2bH9gFI9j0AM=/fit-in/492x600/filters:strip_icc()/pic5100691.jpg",
+    "category": [
+      "Naturaleza"
+    ],
+    "unplayedExpansion": false
+  },
+  {
+    "id": 63,
+    "name": "Aventureros al Tren",
+    "minPlayers": 2,
+    "maxPlayers": 5,
+    "bestMinPlayers": 4,
+    "bestMaxPlayers": 5,
+    "played": true,
+    "image": "https://cf.geekdo-images.com/bilOnrR0vksMgjDK1zWPmQ__itemrep@2x/img/ZB4sBgfJa1G5Izo6sOIQayns5m8=/fit-in/492x600/filters:strip_icc()/pic5941381.png",
+    "category": [
+      ""
+    ],
+    "unplayedExpansion": false
+  },
+  {
+    "id": 64,
+    "name": "King of Tokyo Origins",
+    "minPlayers": 2,
+    "maxPlayers": 4,
+    "bestMinPlayers": 4,
+    "bestMaxPlayers": 4,
+    "played": true,
+    "image": "https://cf.geekdo-images.com/0F9WfwIY6p13EzQgKbvZ1A__itemrep@2x/img/zRY6uSLbJe34V-_8OJLZYYuLbfU=/fit-in/492x600/filters:strip_icc()/pic7924163.png",
+    "category": [
+      "Dados"
+    ],
+    "unplayedExpansion": false
+  },
+  {
+    "id": 65,
+    "name": "Identidad Secreta",
+    "minPlayers": 4,
+    "maxPlayers": 8,
+    "bestMinPlayers": 6,
+    "bestMaxPlayers": 8,
+    "played": true,
+    "image": "https://cf.geekdo-images.com/XyRiGDpXVhJ1pL24Q8-RjQ__itemrep@2x/img/ayX9Jq7L4zVUgF5z_HvNStbu9kI=/fit-in/492x600/filters:strip_icc()/pic6399204.jpg",
+    "category": [
+      "Grupo Grande"
+    ],
+    "unplayedExpansion": false
+  },
+  {
+    "id": 66,
+    "name": "The White Castle",
+    "minPlayers": 2,
+    "maxPlayers": 4,
+    "bestMinPlayers": 4,
+    "bestMaxPlayers": 4,
+    "played": true,
+    "image": "https://cf.geekdo-images.com/qXT1U-nFh9PE8ujfdmI7dA__itemrep@2x/img/l5v97elMDRiO-94ghjwGLjal9zQ=/fit-in/492x600/filters:strip_icc()/pic7754663.jpg",
+    "category": [
+      "Dados", "Trabajadores"
+    ],
+    "unplayedExpansion": false
+  },
+  {
+    "id": 67,
+    "name": "Arquitectos del Reino del Oeste",
+    "minPlayers": 2,
+    "maxPlayers": 5,
+    "bestMinPlayers": 4,
+    "bestMaxPlayers": 5,
+    "played": true,
+    "image": "https://cf.geekdo-images.com/OAX7HfOz-9N60StgADzd0g__itemrep@2x/img/Thdq9gV27yx_bMAueNjD2e4jdw8=/fit-in/492x600/filters:strip_icc()/pic3781944.png",
+    "category": [
+      "Trabajadores"
+    ],
+    "unplayedExpansion": false
+  },
+  {
+    "id": 68,
+    "name": "Golpe de fe",
+    "minPlayers": 2,
+    "maxPlayers": 6,
+    "bestMinPlayers": 4,
+    "bestMaxPlayers": 5,
+    "played": true,
+    "image": "https://cf.geekdo-images.com/JpwNN20XgLtLqA3NZhSltg__itemrep@2x/img/vapMbO3DqXX2GFQONsopMKlFw3A=/fit-in/492x600/filters:strip_icc()/pic4968167.jpg",
+    "category": [
+      ""
+    ],
+    "unplayedExpansion": false
+  },
+  {
+    "id": 69,
+    "name": "Arcs",
+    "minPlayers": 2,
+    "maxPlayers": 4,
+    "bestMinPlayers": 4,
+    "bestMaxPlayers": 4,
+    "played": true,
+    "image": "https://cf.geekdo-images.com/XWImAu_3RK61wbzcKboVdA__itemrep@2x/img/e6Jq0wIswe6A_xpB7xDw9fxKajw=/fit-in/492x600/filters:strip_icc()/pic8145530.png",
+    "category": [
+      ""
+    ],
+    "unplayedExpansion": false
+  },
+  {
+    "id": 70,
+    "name": "Turing Machine",
+    "minPlayers": 1,
+    "maxPlayers": 8,
+    "bestMinPlayers": 4,
+    "bestMaxPlayers": 4,
+    "played": true,
+    "image": "https://cf.geekdo-images.com/un5yundwtC6q1U9gWTY8Yw__itemrep@2x/img/FC67O35roP85oaXUqtGYUyLXovg=/fit-in/492x600/filters:strip_icc()/pic6883492.png",
+    "category": [
+      ""
+    ],
+    "unplayedExpansion": false
+  },
+  {
+    "id": 71,
+    "name": "Slay the Spire",
+    "minPlayers": 1,
+    "maxPlayers": 4,
+    "bestMinPlayers": 2,
+    "bestMaxPlayers": 4,
+    "played": true,
+    "image": "https://cf.geekdo-images.com/PQzVclEoOQ_wr4e1V86kxA__itemrep@2x/img/-46swiY5b8F2Gv6nplJvhSoWdmY=/fit-in/492x600/filters:strip_icc()/pic8157856.png",
+    "category": [
+      "Coperativo"
+    ],
+    "unplayedExpansion": false
+  },
+  {
+    "id": 72,
+    "name": "Catan",
+    "minPlayers": 1,
+    "maxPlayers": 5,
+    "bestMinPlayers": 4,
+    "bestMaxPlayers": 5,
+    "played": true,
+    "image": "https://cf.geekdo-images.com/0XODRpReiZBFUffEcqT5-Q__itemrep@2x/img/81lS9PRn2JwyE4br1l7Z5fgSyFo=/fit-in/492x600/filters:strip_icc()/pic9156909.png",
+    "category": [
+      "Dados"
+    ],
+    "unplayedExpansion": false
+  },
+  {
+    "id": 73,
+    "name": "Santorini",
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "bestMinPlayers": 2,
+    "bestMaxPlayers": 2,
+    "played": true,
+    "image": "https://cf.geekdo-images.com/665Ply7Ho1WVf1v1iZlWeg__itemrep@2x/img/ldEKWu8PC6aK2x0tOZ6e93b1Cpc=/fit-in/492x600/filters:strip_icc()/pic3283110.png",
+    "category": [
+      ""
+    ],
+    "unplayedExpansion": false
+  },
+  {
+    "id": 74,
+    "name": "The Island",
+    "minPlayers": 2,
+    "maxPlayers": 4,
+    "bestMinPlayers": 4,
+    "bestMaxPlayers": 4,
+    "played": true,
+    "image": "https://cf.geekdo-images.com/0M2ck50-GanxBWfOHUZ64A__itemrep@2x/img/9F9XR08UB21ezHtUfnJ070oMw28=/fit-in/492x600/filters:strip_icc()/pic1300182.png",
+    "category": [
+      ""
+    ],
+    "unplayedExpansion": false
+  },
+  {
+    "id": 75,
+    "name": "Lovecraft vol1",
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "bestMinPlayers": 2,
+    "bestMaxPlayers": 2,
+    "played": true,
+    "image": "https://cf.geekdo-images.com/R9HXzU4tV8e63tGuMNhliA__itemrep@2x/img/fH4ansVM73XylRIQgeSFMT1mzE8=/fit-in/492x600/filters:strip_icc()/pic6755937.jpg",
+    "category": [
+      "Lovecraft"
+    ],
+    "unplayedExpansion": false
+  },
+  {
+    "id": 76,
+    "name": "Unmatched",
+    "minPlayers": 2,
+    "maxPlayers": 4,
+    "bestMinPlayers": 2,
+    "bestMaxPlayers": 4,
+    "played": true,
+    "image": "https://cf.geekdo-images.com/iyIO6udRfIn0xM1rIxyO2g__itemrep@2x/img/IT_g0b10F0L-SaIpKaCy-Cu36kM=/fit-in/492x600/filters:strip_icc()/pic5056685.jpg",
+    "category": [
+      ""
+    ],
+    "unplayedExpansion": false
+  },
+  {
+    "id": 77,
+    "name": "Azul",
+    "minPlayers": 2,
+    "maxPlayers": 4,
+    "bestMinPlayers": 3,
+    "bestMaxPlayers": 4,
+    "played": true,
+    "image": "https://cf.geekdo-images.com/aPSHJO0d0XOpQR5X-wJonw__itemrep@2x/img/PH6uta5QGxUHg7aZ609yifJQrhY=/fit-in/492x600/filters:strip_icc()/pic6973671.png",
+    "category": [
+      "Party"
+    ],
+    "unplayedExpansion": false
+  },
+  {
+    "id": 78,
+    "name": "Azul 4",
+    "minPlayers": 2,
+    "maxPlayers": 4,
+    "bestMinPlayers": 3,
+    "bestMaxPlayers": 4,
+    "played": true,
+    "image": "https://cf.geekdo-images.com/l-NBWJ1gIcfOCfrvAw8qvw__itemrep@2x/img/0V8B7psGv7tzvqSeAzJiuIMNx8c=/fit-in/492x600/filters:strip_icc()/pic6389125.jpg",
+    "category": [
+      ""
+    ],
+    "unplayedExpansion": false
+  },
+  {
+    "id": 79,
+    "name": "Azul Mini",
+    "minPlayers": 2,
+    "maxPlayers": 4,
+    "bestMinPlayers": 3,
+    "bestMaxPlayers": 4,
+    "played": true,
+    "image": "https://cf.geekdo-images.com/aPSHJO0d0XOpQR5X-wJonw__itemrep@2x/img/PH6uta5QGxUHg7aZ609yifJQrhY=/fit-in/492x600/filters:strip_icc()/pic6973671.png",
+    "category": [
+      ""
+    ],
+    "unplayedExpansion": false
+  },
+  {
+    "id": 80,
+    "name": "Cacao",
+    "minPlayers": 2,
+    "maxPlayers": 4,
+    "bestMinPlayers": 3,
+    "bestMaxPlayers": 4,
+    "played": true,
+    "image": "https://cf.geekdo-images.com/oPxM0e3HTS0rIc-9H496Pg__itemrep@2x/img/9PZa0DTlVwqXjCnpHhdBU6M0Tpc=/fit-in/492x600/filters:strip_icc()/pic2379288.jpg",
+    "category": [
+      ""
+    ],
+    "unplayedExpansion": false
+  },
+  {
+    "id": 81,
+    "name": "Splendor Marvel",
+    "minPlayers": 2,
+    "maxPlayers": 5,
+    "bestMinPlayers": 4,
+    "bestMaxPlayers": 5,
+    "played": true,
+    "image": "https://cf.geekdo-images.com/2thZjcw0ZvrsP09PDz002Q__itemrep@2x/img/nUQQdTd29HBWszzuLXm8VTaPa2E=/fit-in/492x600/filters:strip_icc()/pic5585867.jpg",
+    "category": [
+      "Marvel", "Party"
+    ],
+    "unplayedExpansion": false
+  },
+  {
+    "id": 82,
+    "name": "Sheriff of Nottingham",
+    "minPlayers": 4,
+    "maxPlayers": 6,
+    "bestMinPlayers": 4,
+    "bestMaxPlayers": 5,
+    "played": true,
+    "image": "https://cf.geekdo-images.com/BBgLFKUzr6tcKtlIM2JSFw__itemrep@2x/img/0cqC8CqGw9xJl3yV7Ws6KTCQGEM=/fit-in/492x600/filters:strip_icc()/pic2075830.jpg",
+    "category": [
+      ""
+    ],
+    "unplayedExpansion": false
+  },
+  {
+    "id": 83,
+    "name": "Tiranos del Underdark",
+    "minPlayers": 2,
+    "maxPlayers": 4,
+    "bestMinPlayers": 4,
+    "bestMaxPlayers": 4,
+    "played": true,
+    "image": "https://cf.geekdo-images.com/xXgBciDhd-cS6XavV3YJzA__itemrep@2x/img/1ns8UMs3ylCFIpD23HuBD7ynMGc=/fit-in/492x600/filters:strip_icc()/pic6480015.jpg",
+    "category": [
+      "DeckBuilding"
+    ],
+    "unplayedExpansion": false
+  },
+  {
+    "id": 84,
+    "name": "Skull King",
+    "minPlayers": 2,
+    "maxPlayers": 5,
+    "bestMinPlayers": 4,
+    "bestMaxPlayers": 4,
+    "played": true,
+    "image": "https://cf.geekdo-images.com/1qvA21HdRaPYwrn4tGDNaQ__itemrep@2x/img/u282aOGplMokEqS8ID7MuYwjnNs=/fit-in/492x600/filters:strip_icc()/pic8689185.jpg",
+    "category": [
+      "Bazas"
+    ],
+    "unplayedExpansion": false
+  },
+  {
+    "id": 85,
+    "name": "Space base",
+    "minPlayers": 2,
+    "maxPlayers": 7,
+    "bestMinPlayers": 4,
+    "bestMaxPlayers": 5,
+    "played": true,
+    "image": "https://cf.geekdo-images.com/MHhQxXVjiaa6C-04nGiIWw__itemrep@2x/img/BKvpRiS5CsktpKLhO9Fs7SmzGAw=/fit-in/492x600/filters:strip_icc()/pic6640638.jpg",
+    "category": [
+      "Espacial"
+    ],
+    "unplayedExpansion": true
+  }
+]
