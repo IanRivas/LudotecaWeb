@@ -34,7 +34,7 @@
     "maxPlayers": 6,
     "bestMinPlayers": 4,
     "bestMaxPlayers": 6,
-    "played": false,
+    "played": true,
     "category": [
       "Marvel",
       "Coperativo"
@@ -245,7 +245,7 @@
     "maxPlayers": 6,
     "bestMinPlayers": 4,
     "bestMaxPlayers": 6,
-    "played": true,
+    "played": false,
     "image": "https://cf.geekdo-images.com/1nxn5PtVk-cbS3tHDg4Xlg__itemrep@2x/img/hfHl89tF4Uekk0AThGVvddNBtKk=/fit-in/492x600/filters:strip_icc()/pic6619019.jpg",
     "category": [
       "Marvel", "Coperativo"
