@@ -9,7 +9,6 @@ const normalize = (text) =>
     .toLowerCase();
 const tabs = [
   ["all", "Todos los juegos"],
-  ["two", "Para 2"],
   ["unplayed", "Por estrenar"],
   ["played", "Ya jugados"],
 ];
@@ -18,6 +17,8 @@ export default function App() {
   const [tab, setTab] = useState("all");
   const [sort, setSort] = useState("name");
   const [category, setCategory] = useState("");
+  const [theme, setTheme] = useState("");
+  const [players, setPlayers] = useState("");
   const [expansionsOnly, setExpansionsOnly] = useState(false);
   const categories = [
     ...new Set(
@@ -25,6 +26,9 @@ export default function App() {
         Array.isArray(game.category) ? game.category : [],
       ),
     ),
+  ].sort((a, b) => a.localeCompare(b, "es"));
+  const themes = [
+    ...new Set(games.flatMap((game) => game.theme ?? [])),
   ].sort((a, b) => a.localeCompare(b, "es"));
   const pendingExpansions = games.filter(
     (game) => game.unplayedExpansion === true,
@@ -34,10 +38,15 @@ export default function App() {
     .filter(
       (game) =>
         normalize(game.name).includes(normalize(query.trim())) &&
-        (tab !== "two" || (game.minPlayers <= 2 && game.maxPlayers >= 2)) &&
+        (!players ||
+          (players === "6+"
+            ? game.bestMinPlayers <= game.bestMaxPlayers && game.bestMaxPlayers >= 6
+            : game.bestMinPlayers <= Number(players) &&
+              game.bestMaxPlayers >= Number(players))) &&
         (tab !== "unplayed" || !game.played) &&
         (tab !== "played" || game.played) &&
         (!category || game.category?.includes(category)) &&
+        (!theme || game.theme?.includes(theme)) &&
         (!expansionsOnly || game.unplayedExpansion === true),
     )
     .sort((a, b) =>
@@ -51,6 +60,8 @@ export default function App() {
     setQuery("");
     setTab("all");
     setCategory("");
+    setTheme("");
+    setPlayers("");
     setExpansionsOnly(false);
   }
   return (
@@ -168,6 +179,19 @@ export default function App() {
               ))}
             </div>
             <div className="selects">
+              <label>
+                Jugadores{" "}
+                <select
+                  value={players}
+                  onChange={(event) => setPlayers(event.target.value)}
+                >
+                  <option value="">Todos</option>
+                  {[2, 3, 4, 5].map((count) => (
+                    <option key={count} value={count}>{count}</option>
+                  ))}
+                  <option value="6+">6+</option>
+                </select>
+              </label>
               {categories.length > 0 && (
                 <label>
                   Categoría{" "}
@@ -182,6 +206,18 @@ export default function App() {
                   </select>
                 </label>
               )}
+              <label>
+                Temática{" "}
+                <select
+                  value={theme}
+                  onChange={(event) => setTheme(event.target.value)}
+                >
+                  <option value="">Todas</option>
+                  {themes.map((item) => (
+                    <option key={item}>{item}</option>
+                  ))}
+                </select>
+              </label>
               <label>
                 Ordenar por{" "}
                 <select
@@ -205,7 +241,7 @@ export default function App() {
               <span>Con expansión sin jugar</span>
               <span className="filter-count">{pendingExpansions}</span>
             </label>
-            {(query || tab !== "all" || category || expansionsOnly) && (
+            {(query || tab !== "all" || category || theme || players || expansionsOnly) && (
               <button type="button" className="clear-filters" onClick={reset}>
                 Limpiar filtros
               </button>
@@ -214,8 +250,9 @@ export default function App() {
           <p className="results" role="status">
             {visible.length} {visible.length === 1 ? "juego" : "juegos"} para tu
             próxima partida
-            {tab === "two" && <span> · Admiten 2 jugadores</span>}
+            {players && <span> · Mejor con {players} jugadores</span>}
             {category && <span> · {category}</span>}
+            {theme && <span> · {theme}</span>}
             {expansionsOnly && <span> · Con expansión sin jugar</span>}
           </p>
           {visible.length ? (

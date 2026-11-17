@@ -10,6 +10,7 @@
     "category": [
       "Pesado"
     ],
+    "theme": [],
     "image": "https://cf.geekdo-images.com/hMkpLfORIUsMe4dHuuHPyg__imagepagezoom/img/k2evrnUhJrUL6-fn8hcVaB3m34k=/fit-in/1200x900/filters:no_upscale():strip_icc()/pic7984201.jpg",
     "unplayedExpansion": false
   },
@@ -21,7 +22,8 @@
     "bestMinPlayers": 4,
     "bestMaxPlayers": 4,
     "played": false,
-    "category": [
+    "category": [],
+    "theme": [
       "Fantasia"
     ],
     "image": "",
@@ -36,8 +38,10 @@
     "bestMaxPlayers": 6,
     "played": true,
     "category": [
-      "Marvel",
       "Coperativo"
+    ],
+    "theme": [
+      "Marvel"
     ],
     "image": "https://cf.geekdo-images.com/fSkaoBXcVmw2Iyme-niJaQ__imagepage/img/7FvQ9WTlqWUINtxqiJlaN11fquI=/fit-in/900x600/filters:no_upscale():strip_icc()/pic7177337.jpg",
     "unplayedExpansion": true
@@ -50,7 +54,8 @@
     "bestMinPlayers": 4,
     "bestMaxPlayers": 5,
     "played": false,
-    "category": [
+    "category": [],
+    "theme": [
       "Crimen"
     ],
     "image": "https://cf.geekdo-images.com/P9bOdjcFFhjJdaeKjsy4xw__imagepage/img/ys7TXk4vA8tZbGAhjcAqIGbycFM=/fit-in/900x600/filters:no_upscale():strip_icc()/pic2971870.jpg",
@@ -67,6 +72,7 @@
     "category": [
       "Grupo Grande"
     ],
+    "theme": [],
     "image": "https://cf.geekdo-images.com/1I9spdDMuRzgM4EVV6BRiQ__imagepage/img/aC33SnnYnNnNzltLfNwE9e6iimE=/fit-in/900x600/filters:no_upscale():strip_icc()/pic8775698.jpg",
     "unplayedExpansion": false
   },
@@ -78,7 +84,8 @@
     "bestMinPlayers": 2,
     "bestMaxPlayers": 4,
     "played": false,
-    "category": [
+    "category": [],
+    "theme": [
       "Dune"
     ],
     "image": "https://cf.geekdo-images.com/b_Uo-x3szhupSWeQdw5bdg__itemrep/img/ZIaZScbDNd0UxHCeTRaMvbtoT0o=/fit-in/246x300/filters:strip_icc()/pic7088918.jpg",
@@ -96,6 +103,7 @@
     "category": [
       "Trabajadores"
     ],
+    "theme": [],
     "unplayedExpansion": false
   },
   {
@@ -110,6 +118,7 @@
     "category": [
       ""
     ],
+    "theme": [],
     "unplayedExpansion": false
   },
   {
@@ -123,6 +132,7 @@
     "category": [
       ""
     ],
+    "theme": [],
     "image": "https://cf.geekdo-images.com/OvhEUaF43CIjSFz8aF_yzQ__itemrep@2x/img/F7lxBBYZzNqGwHeoNzalmeZXY9c=/fit-in/492x600/filters:strip_icc()/pic6996891.jpg",
     "unplayedExpansion": false
   },
@@ -135,7 +145,10 @@
     "bestMaxPlayers": 4,
     "played": true,
     "category": [
-      "Fantasia", "Coperativo"
+      "Coperativo"
+    ],
+    "theme": [
+      "Fantasia"
     ],
     "image": "https://cf.geekdo-images.com/_HhIdavYW-hid20Iq3hhmg__itemrep@2x/img/SnJ_s7pxZkOUQNXd9BAUiYEnLyE=/fit-in/492x600/filters:strip_icc()/pic5055631.jpg",
     "unplayedExpansion": false
@@ -148,7 +161,8 @@
     "bestMinPlayers": 4,
     "bestMaxPlayers": 5,
     "played": true,
-    "category": [
+    "category": [],
+    "theme": [
       "Señor de los Anillos"
     ],
     "image": "https://cf.geekdo-images.com/scw36iBIad7l-rGzxPGcGg__itemrep@2x/img/xvVUhJo2v3KZx0RqrG5_TFd8ZZc=/fit-in/492x600/filters:strip_icc()/pic8662670.png",
@@ -164,7 +178,11 @@
     "played": true,
     "image": "https://cf.geekdo-images.com/uC4N_3kQdoHefNPesAHCzQ__itemrep@2x/img/SYxagNMNuyInZ-zFJlzL78ZZj0E=/fit-in/492x600/filters:strip_icc()/pic8437787.png",
     "category": [
-      "Señor de los Anillos", "Coperativo", "Bazas"
+      "Coperativo",
+      "Bazas"
+    ],
+    "theme": [
+      "Señor de los Anillos"
     ],
     "unplayedExpansion": false
   },
@@ -178,7 +196,11 @@
     "played": true,
     "image": "https://cf.geekdo-images.com/TSwHNId9CUCq-bxAGmNJiQ__itemrep@2x/img/bpmmT1MVjWozNT-m0Wl0ixHGmRE=/fit-in/492x600/filters:strip_icc()/pic9044877.png",
     "category": [
-      "Señor de los Anillos", "Coperativo", "Bazas"
+      "Coperativo",
+      "Bazas"
+    ],
+    "theme": [
+      "Señor de los Anillos"
     ],
     "unplayedExpansion": false
   },
@@ -191,7 +213,8 @@
     "bestMaxPlayers": 4,
     "played": true,
     "image": "https://cf.geekdo-images.com/PhjygpWSo-0labGrPBMyyg__itemrep@2x/img/Jo0nBF30UyHL5WSuh1xWppwt1cY=/fit-in/492x600/filters:strip_icc()/pic5666597.jpg",
-    "category": [
+    "category": [],
+    "theme": [
       "Dune"
     ],
     "unplayedExpansion": false
@@ -205,7 +228,8 @@
     "bestMaxPlayers": 6,
     "played": true,
     "image": "https://cf.geekdo-images.com/UVUkjMV_Q2paVUIUP30Vvw__itemrep@2x/img/R1DfoFAXuuOgg8vDr1n7_ovrscg=/fit-in/492x600/filters:strip_icc()/pic7664424.jpg",
-    "category": [
+    "category": [],
+    "theme": [
       "Dune"
     ],
     "unplayedExpansion": true
@@ -220,7 +244,10 @@
     "played": true,
     "image": "https://cf.geekdo-images.com/tQVVSXcmYLvAoI28cp-2Tg__itemrep@2x/img/EYdbd5vf2UatF6jCwsdCCoYXIy8=/fit-in/492x600/filters:strip_icc()/pic5974859.jpg",
     "category": [
-      "Pesado", "Fantasia"
+      "Pesado"
+    ],
+    "theme": [
+      "Fantasia"
     ],
     "unplayedExpansion": false
   },
@@ -234,7 +261,10 @@
     "played": true,
     "image": "https://cf.geekdo-images.com/eCdiHCB9OobumwaGl4dbOQ__itemrep@2x/img/vAcMMGbSIA2A9ZnmyERQxLa04XQ=/fit-in/492x600/filters:strip_icc()/pic6204967.png",
     "category": [
-      "Espacial", "Grupo Grande"
+      "Grupo Grande"
+    ],
+    "theme": [
+      "Espacial"
     ],
     "unplayedExpansion": false
   },
@@ -248,7 +278,10 @@
     "played": false,
     "image": "https://cf.geekdo-images.com/1nxn5PtVk-cbS3tHDg4Xlg__itemrep@2x/img/hfHl89tF4Uekk0AThGVvddNBtKk=/fit-in/492x600/filters:strip_icc()/pic6619019.jpg",
     "category": [
-      "Marvel", "Coperativo"
+      "Coperativo"
+    ],
+    "theme": [
+      "Marvel"
     ],
     "unplayedExpansion": true
   },
@@ -264,6 +297,7 @@
     "category": [
       "Subasta"
     ],
+    "theme": [],
     "unplayedExpansion": false
   },
   {
@@ -278,6 +312,7 @@
     "category": [
       "Apuestas"
     ],
+    "theme": [],
     "unplayedExpansion": false
   },
   {
@@ -290,7 +325,10 @@
     "played": true,
     "image": "https://cf.geekdo-images.com/3HkjDovk8Yr2wMumcSUGog__itemrep@2x/img/b88bm2yO6lpzyMBed3xyOdTJQFA=/fit-in/492x600/filters:strip_icc()/pic4843622.jpg",
     "category": [
-      "Espacial", "Polyomino"
+      "Polyomino"
+    ],
+    "theme": [
+      "Espacial"
     ],
     "unplayedExpansion": true
   },
@@ -303,7 +341,8 @@
     "bestMaxPlayers": 4,
     "played": true,
     "image": "https://cf.geekdo-images.com/7Ej5V5Dq92QdvVFvISfl_A__itemrep@2x/img/ht9-6jbd9IhMFW5GjGEzCO1dvKY=/fit-in/492x600/filters:strip_icc()/pic4216110.jpg",
-    "category": [
+    "category": [],
+    "theme": [
       "Disney"
     ],
     "unplayedExpansion": false
@@ -317,8 +356,10 @@
     "bestMaxPlayers": 4,
     "played": true,
     "image": "https://cf.geekdo-images.com/aq9LGSoVavCJbhY2cOTUTg__itemrep@2x/img/0I5H6DgUoWtw7Uyvhq9Y4VRiK-Y=/fit-in/492x600/filters:strip_icc()/pic6741829.png",
-    "category": [
-      "Espacial", "Star Wars"
+    "category": [],
+    "theme": [
+      "Espacial",
+      "Star Wars"
     ],
     "unplayedExpansion": false
   },
@@ -332,7 +373,10 @@
     "played": true,
     "image": "https://cf.geekdo-images.com/McQXSQjyTtrqpGA77GSRxg__itemrep@2x/img/TEktzqu5DQCJFDxy8M_SoiCC5Dc=/fit-in/492x600/filters:strip_icc()/pic6245965.jpg",
     "category": [
-      "Coperativo", "Marvel"
+      "Coperativo"
+    ],
+    "theme": [
+      "Marvel"
     ],
     "unplayedExpansion": false
   },
@@ -348,6 +392,7 @@
     "category": [
       "Draft"
     ],
+    "theme": [],
     "unplayedExpansion": false
   },
   {
@@ -362,6 +407,7 @@
     "category": [
       "Apuestas"
     ],
+    "theme": [],
     "unplayedExpansion": false
   },
   {
@@ -374,8 +420,10 @@
     "played": true,
     "image": "https://cf.geekdo-images.com/2f9uTicUSXkdPp2Yks6zFw__itemrep/img/Y_jPOWbp6_2qOzymSNIC6SZo4TE=/fit-in/246x300/filters:strip_icc()/pic5885689.jpg",
     "category": [
-      "Party", "Draft"
+      "Party",
+      "Draft"
     ],
+    "theme": [],
     "unplayedExpansion": false
   },
   {
@@ -390,6 +438,7 @@
     "category": [
       "DeckBuilding"
     ],
+    "theme": [],
     "unplayedExpansion": false
   },
   {
@@ -404,6 +453,7 @@
     "category": [
       "DeckBuilding"
     ],
+    "theme": [],
     "unplayedExpansion": false
   },
   {
@@ -418,6 +468,7 @@
     "category": [
       "Grupo Grande"
     ],
+    "theme": [],
     "unplayedExpansion": false
   },
   {
@@ -432,6 +483,7 @@
     "category": [
       "Time"
     ],
+    "theme": [],
     "unplayedExpansion": false
   },
   {
@@ -446,6 +498,7 @@
     "category": [
       "Grupo Grande"
     ],
+    "theme": [],
     "unplayedExpansion": false
   },
   {
@@ -457,7 +510,8 @@
     "bestMaxPlayers": 5,
     "played": true,
     "image": "https://cf.geekdo-images.com/KVLeGFlhzRVDHILRABi-Vg__small@2x/img/ATaIAjaDvvk3I77hIYqG9Qu8_eQ=/fit-in/400x300/filters:strip_icc()/pic5643225.png",
-    "category": [
+    "category": [],
+    "theme": [
       "Fantasia"
     ],
     "unplayedExpansion": false
@@ -474,6 +528,7 @@
     "category": [
       "Draft"
     ],
+    "theme": [],
     "unplayedExpansion": false
   },
   {
@@ -485,7 +540,8 @@
     "bestMaxPlayers": 5,
     "played": true,
     "image": "https://cf.geekdo-images.com/_kZDRdv3tONk9vTcA_OwSA__itemrep@2x/img/B9kp2OMb57n4AnO7uC_tx7onhaI=/fit-in/492x600/filters:strip_icc()/pic8317346.png",
-    "category": [
+    "category": [],
+    "theme": [
       "Lovecraft"
     ],
     "unplayedExpansion": false
@@ -500,7 +556,10 @@
     "played": true,
     "image": "https://cf.geekdo-images.com/oxdsZKIX5_3ovDo38EIaeg__itemrep@2x/img/mv3vvwTJJUIsOED7m2vofHyzT1g=/fit-in/492x600/filters:strip_icc()/pic1872452.jpg",
     "category": [
-      "Lovecraft", "Coperativo"
+      "Coperativo"
+    ],
+    "theme": [
+      "Lovecraft"
     ],
     "unplayedExpansion": false
   },
@@ -514,7 +573,10 @@
     "played": true,
     "image": "https://cf.geekdo-images.com/LIooA9bTdjnE9qmhjL-UFw__itemrep@2x/img/CTcuiiyX5l_LGYrmb2xabWXPZ0A=/fit-in/492x600/filters:strip_icc()/pic3118622.jpg",
     "category": [
-      "Lovecraft", "Coperativo"
+      "Coperativo"
+    ],
+    "theme": [
+      "Lovecraft"
     ],
     "unplayedExpansion": false
   },
@@ -528,7 +590,10 @@
     "played": true,
     "image": "https://cf.geekdo-images.com/SPpzri7fwLRgVWMKOocHxw__itemrep@2x/img/62JnqoQGGT74Fz7fkuaeStg-2wE=/fit-in/492x600/filters:strip_icc()/pic9712872.png",
     "category": [
-      "Lovecraft", "Coperativo"
+      "Coperativo"
+    ],
+    "theme": [
+      "Lovecraft"
     ],
     "unplayedExpansion": false
   },
@@ -541,7 +606,8 @@
     "bestMaxPlayers": 4,
     "played": true,
     "image": "https://cf.geekdo-images.com/NEbmFFGhKwegIryUArgw6w__itemrep@2x/img/Thsc-9q4PrTcXpTCWEJbuVa2Z48=/fit-in/492x600/filters:strip_icc()/pic7110034.jpg",
-    "category": [
+    "category": [],
+    "theme": [
       "Espacial"
     ],
     "unplayedExpansion": false
@@ -555,7 +621,8 @@
     "bestMaxPlayers": 4,
     "played": true,
     "image": "https://cf.geekdo-images.com/RjwAj6hw5aEMGvosEA12gw__itemrep@2x/img/1nvcISfE2viD8P5hXmxHodh_Z4c=/fit-in/492x600/filters:strip_icc()/pic5879810.jpg",
-    "category": [
+    "category": [],
+    "theme": [
       "Star Wars"
     ],
     "unplayedExpansion": false
@@ -570,7 +637,10 @@
     "played": true,
     "image": "https://cf.geekdo-images.com/3d4Yptz2IUC2ZAxtdPidig__itemrep@2x/img/9DUIQv_-pitznX5xF5NyKYtfmc8=/fit-in/492x600/filters:strip_icc()/pic8211893.jpg",
     "category": [
-      "Star Wars", "Coperativo"
+      "Coperativo"
+    ],
+    "theme": [
+      "Star Wars"
     ],
     "unplayedExpansion": false
   },
@@ -583,7 +653,8 @@
     "bestMaxPlayers": 2,
     "played": true,
     "image": "https://cf.geekdo-images.com/U6scsOGrPtVym4nCLaYjyw__itemrep@2x/img/CAeRu_nFGt1W9biEuwpXzJba0fA=/fit-in/492x600/filters:strip_icc()/pic7387735.png",
-    "category": [
+    "category": [],
+    "theme": [
       "Star Wars"
     ],
     "unplayedExpansion": false
@@ -597,7 +668,8 @@
     "bestMaxPlayers": 2,
     "played": true,
     "image": "https://cf.geekdo-images.com/YRZ0kNHp-NnWQf9yw7ldGw__itemrep@2x/img/gAtYZLcXiniorK3U8NEdtVQ8r9M=/fit-in/492x600/filters:strip_icc()/pic7503747.jpg",
-    "category": [
+    "category": [],
+    "theme": [
       "Star Wars"
     ],
     "unplayedExpansion": false
@@ -611,7 +683,8 @@
     "bestMaxPlayers": 5,
     "played": true,
     "image": "https://cf.geekdo-images.com/bfPo-GAs3pVmTc8HPHRVQA__itemrep@2x/img/454AypmN9ytMZwrw_A1lOGbaw08=/fit-in/492x600/filters:strip_icc()/pic7949042.jpg",
-    "category": [
+    "category": [],
+    "theme": [
       "Star Wars"
     ],
     "unplayedExpansion": false
@@ -628,6 +701,7 @@
     "category": [
       "Grupo Grande"
     ],
+    "theme": [],
     "unplayedExpansion": false
   },
   {
@@ -639,7 +713,8 @@
     "bestMaxPlayers": 4,
     "played": true,
     "image": "https://cf.geekdo-images.com/ScrF673pQhrx27WoVdG81g__itemrep@2x/img/qPcpi3XKZK7pKxrAOvW5UIz5EWE=/fit-in/492x600/filters:strip_icc()/pic6982333.png",
-    "category": [
+    "category": [],
+    "theme": [
       "Señor de los Anillos"
     ],
     "unplayedExpansion": true
@@ -653,7 +728,8 @@
     "bestMaxPlayers": 4,
     "played": true,
     "image": "https://cf.geekdo-images.com/fl0hNCmltu2hpcmXaVnmLg__itemrep@2x/img/_l-uvqoBQ_hpp0wYiDbp7UzATw4=/fit-in/492x600/filters:strip_icc()/pic6417388.png",
-    "category": [
+    "category": [],
+    "theme": [
       "Señor de los Anillos"
     ],
     "unplayedExpansion": false
@@ -668,7 +744,10 @@
     "played": true,
     "image": "https://cf.geekdo-images.com/1XA2-niwTBa0HEB7hOz3Dw__itemrep@2x/img/vm_IF43cf8AJ4GF3zekYZ9uiP1Q=/fit-in/492x600/filters:strip_icc()/pic4530974.jpg",
     "category": [
-      "Señor de los Anillos","Coperativo"
+      "Coperativo"
+    ],
+    "theme": [
+      "Señor de los Anillos"
     ],
     "unplayedExpansion": false
   },
@@ -681,7 +760,8 @@
     "bestMaxPlayers": 2,
     "played": true,
     "image": "https://cf.geekdo-images.com/eGgWK6CBgJmFv-k5IPVK7Q__itemrep@2x/img/GKEBZ4Q62tokC-j5EWThHnWnLVw=/fit-in/492x600/filters:strip_icc()/pic7613073.jpg",
-    "category": [
+    "category": [],
+    "theme": [
       "Señor de los Anillos"
     ],
     "unplayedExpansion": false
@@ -695,7 +775,8 @@
     "bestMaxPlayers": 4,
     "played": true,
     "image": "https://cf.geekdo-images.com/S1fyD33b1HdwSQNwdokC8Q__imagepage/img/oVjqRE8fa3A9MRHfs_IzJe0ct9w=/fit-in/900x600/filters:no_upscale():strip_icc()/pic3280401.png",
-    "category": [
+    "category": [],
+    "theme": [
       "Señor de los Anillos"
     ],
     "unplayedExpansion": false
@@ -709,7 +790,8 @@
     "bestMaxPlayers": 2,
     "played": true,
     "image": "https://cf.geekdo-images.com/EybxJlUc9rz7F7HVFLqsdw__itemrep@2x/img/ZBaZuEF91caDnlhi2mmr48mwuZ4=/fit-in/492x600/filters:strip_icc()/pic8378939.jpg",
-    "category": [
+    "category": [],
+    "theme": [
       "Señor de los Anillos"
     ],
     "unplayedExpansion": false
@@ -723,7 +805,8 @@
     "bestMaxPlayers": 5,
     "played": true,
     "image": "https://cf.geekdo-images.com/yLZJCVLlIx4c7eJEWUNJ7w__itemrep@2x/img/veohwKEtFpERbDq7xGMggHqLKX8=/fit-in/492x600/filters:strip_icc()/pic4458123.jpg",
-    "category": [
+    "category": [],
+    "theme": [
       "Naturaleza"
     ],
     "unplayedExpansion": false
@@ -738,7 +821,11 @@
     "played": true,
     "image": "https://cf.geekdo-images.com/SoU8p28Sk1s8MSvoM4N8pQ__itemrep@2x/img/Pr8zSaMINlALYjR0agud0_EFESs=/fit-in/492x600/filters:strip_icc()/pic6293412.jpg",
     "category": [
-      "Naturaleza", "Pesado", "Trabajadores"
+      "Pesado",
+      "Trabajadores"
+    ],
+    "theme": [
+      "Naturaleza"
     ],
     "unplayedExpansion": true
   },
@@ -751,7 +838,8 @@
     "bestMaxPlayers": 4,
     "played": true,
     "image": "https://cf.geekdo-images.com/fjE7V5LNq31yVEW_yuqI-Q__itemrep@2x/img/rCk5yWDLA7IBpIqBw8Sc0OOh7aE=/fit-in/492x600/filters:strip_icc()/pic3918905.png",
-    "category": [
+    "category": [],
+    "theme": [
       "Naturaleza"
     ],
     "unplayedExpansion": false
@@ -766,7 +854,10 @@
     "played": true,
     "image": "https://cf.geekdo-images.com/8vqr1uYik715mqDqy0W9vg__itemrep@2x/img/P0WxVVecT1BJ6jxTOnEhoZnD-lo=/fit-in/492x600/filters:strip_icc()/pic5673404.jpg",
     "category": [
-      "Naturaleza", "Polyomino"
+      "Polyomino"
+    ],
+    "theme": [
+      "Naturaleza"
     ],
     "unplayedExpansion": false
   },
@@ -780,7 +871,10 @@
     "played": true,
     "image": "https://cf.geekdo-images.com/JUAUWaVUzeBgzirhZNmHHw__itemrep@2x/img/ws8Cu10dtH9Dk0bzuc4xHmIKDEc=/fit-in/492x600/filters:strip_icc()/pic4254509.jpg",
     "category": [
-      "Pesado", "Naturaleza"
+      "Pesado"
+    ],
+    "theme": [
+      "Naturaleza"
     ],
     "unplayedExpansion": true
   },
@@ -794,7 +888,10 @@
     "played": true,
     "image": "https://cf.geekdo-images.com/FDBUwGFBkniyl8q4Alvq8A__itemrep@2x/img/TW5LsqId_pViCbpPNAq_7KeLSAY=/fit-in/492x600/filters:strip_icc()/pic7491534.jpg",
     "category": [
-      "Naturaleza", "Party"
+      "Party"
+    ],
+    "theme": [
+      "Naturaleza"
     ],
     "unplayedExpansion": false
   },
@@ -808,7 +905,10 @@
     "played": true,
     "image": "https://cf.geekdo-images.com/CIh_rXKoRw9z8K0PJxT8nQ__itemrep@2x/img/WAwZZCM6DFwv4Os2CxEUzIP4Xyc=/fit-in/492x600/filters:strip_icc()/pic6973911.jpg",
     "category": [
-      "Party", "Naturaleza"
+      "Party"
+    ],
+    "theme": [
+      "Naturaleza"
     ],
     "unplayedExpansion": false
   },
@@ -824,6 +924,7 @@
     "category": [
       "Party"
     ],
+    "theme": [],
     "unplayedExpansion": false
   },
   {
@@ -836,8 +937,10 @@
     "played": true,
     "image": "https://cf.geekdo-images.com/BLTFau1Ue-gjX6geQdYrjQ__itemrep@2x/img/iVX-fh_iAy1qLDGnyUEIGMGtGxE=/fit-in/492x600/filters:strip_icc()/pic2909713.jpg",
     "category": [
-      "Dados", "Grupo Grande"
+      "Dados",
+      "Grupo Grande"
     ],
+    "theme": [],
     "unplayedExpansion": false
   },
   {
@@ -852,6 +955,7 @@
     "category": [
       "Party"
     ],
+    "theme": [],
     "unplayedExpansion": false
   },
   {
@@ -863,7 +967,8 @@
     "bestMaxPlayers": 4,
     "played": true,
     "image": "https://cf.geekdo-images.com/MjeJZfulbsM1DSV3DrGJYA__itemrep@2x/img/jluk2bo_VuQ6kgX2bH9gFI9j0AM=/fit-in/492x600/filters:strip_icc()/pic5100691.jpg",
-    "category": [
+    "category": [],
+    "theme": [
       "Naturaleza"
     ],
     "unplayedExpansion": false
@@ -880,6 +985,7 @@
     "category": [
       ""
     ],
+    "theme": [],
     "unplayedExpansion": false
   },
   {
@@ -894,6 +1000,7 @@
     "category": [
       "Dados"
     ],
+    "theme": [],
     "unplayedExpansion": false
   },
   {
@@ -908,6 +1015,7 @@
     "category": [
       "Grupo Grande"
     ],
+    "theme": [],
     "unplayedExpansion": false
   },
   {
@@ -920,8 +1028,10 @@
     "played": true,
     "image": "https://cf.geekdo-images.com/qXT1U-nFh9PE8ujfdmI7dA__itemrep@2x/img/l5v97elMDRiO-94ghjwGLjal9zQ=/fit-in/492x600/filters:strip_icc()/pic7754663.jpg",
     "category": [
-      "Dados", "Trabajadores"
+      "Dados",
+      "Trabajadores"
     ],
+    "theme": [],
     "unplayedExpansion": false
   },
   {
@@ -936,6 +1046,7 @@
     "category": [
       "Trabajadores"
     ],
+    "theme": [],
     "unplayedExpansion": false
   },
   {
@@ -950,6 +1061,7 @@
     "category": [
       ""
     ],
+    "theme": [],
     "unplayedExpansion": false
   },
   {
@@ -964,6 +1076,7 @@
     "category": [
       ""
     ],
+    "theme": [],
     "unplayedExpansion": false
   },
   {
@@ -978,6 +1091,7 @@
     "category": [
       ""
     ],
+    "theme": [],
     "unplayedExpansion": false
   },
   {
@@ -992,6 +1106,7 @@
     "category": [
       "Coperativo"
     ],
+    "theme": [],
     "unplayedExpansion": false
   },
   {
@@ -1006,6 +1121,7 @@
     "category": [
       "Dados"
     ],
+    "theme": [],
     "unplayedExpansion": false
   },
   {
@@ -1020,6 +1136,7 @@
     "category": [
       ""
     ],
+    "theme": [],
     "unplayedExpansion": false
   },
   {
@@ -1034,6 +1151,7 @@
     "category": [
       ""
     ],
+    "theme": [],
     "unplayedExpansion": false
   },
   {
@@ -1045,7 +1163,8 @@
     "bestMaxPlayers": 2,
     "played": true,
     "image": "https://cf.geekdo-images.com/R9HXzU4tV8e63tGuMNhliA__itemrep@2x/img/fH4ansVM73XylRIQgeSFMT1mzE8=/fit-in/492x600/filters:strip_icc()/pic6755937.jpg",
-    "category": [
+    "category": [],
+    "theme": [
       "Lovecraft"
     ],
     "unplayedExpansion": false
@@ -1062,6 +1181,7 @@
     "category": [
       ""
     ],
+    "theme": [],
     "unplayedExpansion": false
   },
   {
@@ -1076,6 +1196,7 @@
     "category": [
       "Party"
     ],
+    "theme": [],
     "unplayedExpansion": false
   },
   {
@@ -1090,6 +1211,7 @@
     "category": [
       ""
     ],
+    "theme": [],
     "unplayedExpansion": false
   },
   {
@@ -1104,6 +1226,7 @@
     "category": [
       ""
     ],
+    "theme": [],
     "unplayedExpansion": false
   },
   {
@@ -1118,6 +1241,7 @@
     "category": [
       ""
     ],
+    "theme": [],
     "unplayedExpansion": false
   },
   {
@@ -1130,7 +1254,10 @@
     "played": true,
     "image": "https://cf.geekdo-images.com/2thZjcw0ZvrsP09PDz002Q__itemrep@2x/img/nUQQdTd29HBWszzuLXm8VTaPa2E=/fit-in/492x600/filters:strip_icc()/pic5585867.jpg",
     "category": [
-      "Marvel", "Party"
+      "Party"
+    ],
+    "theme": [
+      "Marvel"
     ],
     "unplayedExpansion": false
   },
@@ -1146,6 +1273,7 @@
     "category": [
       ""
     ],
+    "theme": [],
     "unplayedExpansion": false
   },
   {
@@ -1160,6 +1288,7 @@
     "category": [
       "DeckBuilding"
     ],
+    "theme": [],
     "unplayedExpansion": false
   },
   {
@@ -1174,6 +1303,7 @@
     "category": [
       "Bazas"
     ],
+    "theme": [],
     "unplayedExpansion": false
   },
   {
@@ -1185,7 +1315,8 @@
     "bestMaxPlayers": 5,
     "played": true,
     "image": "https://cf.geekdo-images.com/MHhQxXVjiaa6C-04nGiIWw__itemrep@2x/img/BKvpRiS5CsktpKLhO9Fs7SmzGAw=/fit-in/492x600/filters:strip_icc()/pic6640638.jpg",
-    "category": [
+    "category": [],
+    "theme": [
       "Espacial"
     ],
     "unplayedExpansion": true
