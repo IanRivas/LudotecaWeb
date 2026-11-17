@@ -1,6 +1,7 @@
-import React, { useState } from "react";
+import React, { useEffect, useState } from "react";
 import games from "../ludoteca.json";
 import GameCard from "./components/GameCard.jsx";
+import RoulettePicker from "./components/RoulettePicker.jsx";
 
 const normalize = (text) =>
   text
@@ -13,6 +14,12 @@ const tabs = [
   ["played", "Ya jugados"],
 ];
 export default function App() {
+  const [page, setPage] = useState(() => location.hash === "#ruleta" ? "roulette" : "collection");
+  useEffect(() => {
+    const navigate = () => setPage(location.hash === "#ruleta" ? "roulette" : "collection");
+    window.addEventListener("hashchange", navigate);
+    return () => window.removeEventListener("hashchange", navigate);
+  }, []);
   const [query, setQuery] = useState("");
   const [tab, setTab] = useState("all");
   const [sort, setSort] = useState("name");
@@ -74,11 +81,15 @@ export default function App() {
           entre turnos<span className="brand-dot">.</span>
         </a>
         <span className="header-note">MI LUDOTECA PERSONAL</span>
-        <a className="collection-link" href="#coleccion">
+        <nav className="page-nav" aria-label="Navegación principal">
+        <a className="collection-link" href="#ruleta" aria-current={page === "roulette" ? "page" : undefined}>Qué jugamos</a>
+        <a className="collection-link" href="#coleccion" aria-current={page === "collection" ? "page" : undefined}>
           La Colección <span>↗</span>
         </a>
+        </nav>
       </header>
       <main>
+        {page === "collection" && <>
         <section className="hero">
           <div className="hero-copy">
             <p className="eyebrow">
@@ -144,12 +155,13 @@ export default function App() {
             <span>juegos con expansión sin jugar</span>
           </div>
         </section>
-        <section id="coleccion" className="collection">
+        </>}
+        <section id={page === "roulette" ? "ruleta" : "coleccion"} className="collection">
           <div className="section-heading">
             <div>
               <p className="eyebrow">EL ESTANTE DE LOS BUENOS PLANES</p>
               <h2>
-                La Colección<span>.</span>
+                {page === "roulette" ? "¿Qué jugamos?" : "La Colección"}<span>.</span>
               </h2>
             </div>
             <label className="search">
@@ -255,7 +267,7 @@ export default function App() {
             {theme && <span> · {theme}</span>}
             {expansionsOnly && <span> · Con expansión sin jugar</span>}
           </p>
-          {visible.length ? (
+          {page === "roulette" ? <RoulettePicker visible={visible} /> : visible.length ? (
             <div className="game-grid">
               {visible.map((game) => (
                 <GameCard key={game.id} game={game} />
